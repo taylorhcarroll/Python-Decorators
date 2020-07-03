@@ -105,7 +105,6 @@ def get_text(name):
 
 
 print(get_text("John"))
-
 # Outputs <p>lorem ipsum, John dolor sit amet</p>
 
 # Now let's consider we wanted to decorate our get_text function by 2 other functions to wrap a div and strong tag
